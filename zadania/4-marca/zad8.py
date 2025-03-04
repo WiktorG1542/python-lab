@@ -1,0 +1,1 @@
+# to zadanie jest niemożliwe do wykonania ponieważ nie jest zdefiniowane co to jest readability score :)
